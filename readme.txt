@@ -1,0 +1,1 @@
+﻿This is a C++ console application for implementation of Linked List. This represent a telephone directory with add, find and delete actions. In "program" directory you can find anexecutable file, and, for example, in Linux you just can use comand:"./phones" to run it
